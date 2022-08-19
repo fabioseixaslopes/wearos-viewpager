@@ -4,4 +4,4 @@ Wear OS app with sample implementation that slides between fragments using viewp
 
 ## Preview:
 
-![](preview.gif)
+![](preview.gif =300x277)
