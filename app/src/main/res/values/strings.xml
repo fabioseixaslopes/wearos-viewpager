@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+    <string name="hello_world">Hello Square World!</string>
+    <string name="text_1">1</string>
+    <string name="text_2">2</string>
+    <string name="text_3">3</string>
+    <string name="text_4">4</string>
+</resources>
